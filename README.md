@@ -1,6 +1,6 @@
 ### Testes Unitários com Jest e RTL
 
-Nesse projeto foram utilizadas as bibliotecas Jest e RTL (React Testing Library) para relizar os testes unitários dos componentes da aplicação Pokédex, com os seguintes objetivos:
+Nesse projeto foram utilizadas as bibliotecas Jest e RTL (React Testing Library) para realizar os testes unitários dos componentes da aplicação Pokédex, com os seguintes objetivos:
 
 * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
 
